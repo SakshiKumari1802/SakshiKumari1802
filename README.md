@@ -1,6 +1,6 @@
 # Hey, I'm Sakshi Kumari 👋
 
-- 🎓 B.Tech CSE (DATA SCIENCE) · Manipal University Jaipur · CGPA 8.99 · 2027
+- 🎓 B.Tech CSE (DATA SCIENCE) · Manipal University Jaipur · CGPA 9.05 · 2027
 - 🤖 Building AI/ML & Computer Vision projects
 - 🌱 Exploring Deep Learning, MLOps, and intelligent AI systems
 - 📩 ksakshic@gmail.com
